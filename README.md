@@ -7,3 +7,6 @@ List of Projects I want to do.
 4. Show all buses on Map of a particular route - Lanuage NodeJS
 5. Automated porting of JSON data to a table
 6. Automated Generating graph from a table
+7. Chat application to send ssecure chat ( can be a chrome extension )
+8. Map location data from facebook chat
+9. Partition a file and store on different cloud providers.
